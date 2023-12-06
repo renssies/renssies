@@ -6,7 +6,7 @@ In my spare time I often ~~tinker~~ hack with electronics, smart home stuff and 
 
 On my GitHub you can find some of the iOS related resources that I use, but you will also find plenty of other stuff related to my other hobbies. Including some HomeKit and Homebridge stuff.
 
-You can always reach me at [@renssies](https://twitter.com/renssies) on twitter as long as you aren't recruiting me to work somewhere else.
+You can always reach me as [@renssies](https://mastodon.social/@renssies) on Mastodon.social as long as you aren't recruiting me to work somewhere else.
 
 <!--
 **renssies/renssies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

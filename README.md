@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rens, sometimes known as renssies. My daily job is being a iOS Developer and I'm currently developing at [Click.nl](https://click.nl). I've previously worked at [Awkward](https://awkward.co) and before that I even did some freelance work as renssies. 
+I'm Rens, sometimes known as renssies. My daily job is being a iOS Developer. I've previously worked at [Click.nl](https://click.nl) and [Awkward](https://awkward.co), before that I even did some freelance work as renssies. 
 
 In my spare time I often ~~tinker~~ hack with electronics, smart home stuff and other programming. You might see me doing that over at Hackerspace [Pixelbar](https://pixelbar.nl)
 
